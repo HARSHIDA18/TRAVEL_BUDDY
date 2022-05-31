@@ -1,0 +1,6 @@
+body{
+  width: 100%;
+  background: url(./images/land-back.jpg) fixed center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
